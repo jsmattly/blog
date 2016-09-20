@@ -1,5 +1,5 @@
 ---
-title:  "Response to A List of Things"
+title:  "Response to A List Apart"
 date:   2016-09-20 10:18:00
 description: HTML Article Response
 ---
@@ -21,3 +21,6 @@ such as javascript and CSS would prolong the process even more. Blocking is a me
 Blocking is when CSS and Javascript requests are blocked when page is loading. This is usually achieved by blocking rendering for
 CSS to help the UI to load consistently. Not sure how this could be achieved, and I'm guessing I have a lot to learn.
 
+Source: [alistofthings]
+
+[alistofthings]: http://alistapart.com/article/planning-for-performance
