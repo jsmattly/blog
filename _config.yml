@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Kibbles
+description: Warning: Nerdy posts
+meta_description: "Mainly for Interactive Design 1 for now"
 
 aboutPage: true
 
@@ -16,9 +16,9 @@ disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://blog.kibbl.es'
+author:         'Mattly'
+authorTwitter:  'Mattl
 
 permalink:       /:year/:title/
 
