@@ -18,7 +18,7 @@ disqus_shortname: 'your-disqus-shortname'
 # Details for the RSS feed generator
 url:            'http://blog.kibbl.es'
 author:         'Mattly'
-authorTwitter:  'Mattl
+authorTwitter:  'Mattly'
 
 permalink:       /:year/:title/
 
