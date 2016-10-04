@@ -17,4 +17,4 @@ Visual langauge nees to be consistent. For example, tabs can tell you where you 
 
 Source: [alistofthings]
 
-[alistofthings]: http://alistapart.com/article/responsive-images-and-web-standards-at-the-turning-point
+[alistofthings]: http://alistapart.com/article/whereami
