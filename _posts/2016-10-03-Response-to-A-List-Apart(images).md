@@ -33,7 +33,9 @@ I think that the problem is that people have different suggestions for how to go
 
 
 Source: [alistofthings]
+
 *[WHATWG]: Web Hypertext Application Technology Working Group
+
 *[RICG]: Responsive Images Community Group
 
 [alistofthings]: http://alistapart.com/article/responsive-images-and-web-standards-at-the-turning-point
