@@ -8,7 +8,7 @@ The "responsive images" solution is to deliver optimized images to end'users rat
 
 For as far as I understand from the article, WHATWG has proposed a method to set **new** attribute to the **img** element. The proposed syntax is as follows: 
 
-```html
+```HTML
 <img src="face-600-200@1.jpg" alt=""
     set="face-600-200@1.jpg 600w 200h 1x,
          face-600-200@2.jpg 600w 200h 2x,
@@ -19,7 +19,7 @@ Which breaks the image srource into multiple resolutions. Other group (RICG) has
 
 The proposed markup is as follows:
 
-```html
+```HTML
 <picture alt="">
    <source src="mobile.jpg" /> 
    <source src="large.jpg" media="min-width: 600px" />

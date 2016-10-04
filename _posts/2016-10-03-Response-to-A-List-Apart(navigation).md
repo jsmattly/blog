@@ -12,6 +12,7 @@ These factors are important because the website is trying to sell things, or con
 2. Show wher eyou are
 3. Think before you link
 
+
 Visual langauge nees to be consistent. For example, tabs can tell you where you are, and underline is always present on hover, and certain consistant color such as (blue) means it's clickable. We have to think about symbolic meanings of visual metaphors like tabs, and think about our information architecture. If you want your users to have good experience and make them want to come back, good navigation is one of the key elements to the attraction.
 
 
